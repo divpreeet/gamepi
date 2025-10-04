@@ -10,10 +10,17 @@ This is my journal of the design and building process of **gamepi**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/135).
 
 
-## 10/4/2025 - setup repo  
+## 10/4/2025 7 AM - setup repo  
 
 nothing really, just setup github, and wanted to get this project up and running, i have done a hardware project like hackpad before, so i hope this one wont be that mind boggling! i still need to find out the software i am going to be using, since i am on linux!
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk3LCJwdXIiOiJibG9iX2lkIn19--bccf245fe29fd557501ed709ab3df9c3268eb55f/image.png)
+  
+
+## 10/4/2025 9 AM - setup schematics  
+
+setup kicad and added buttons, i've also made a parts list, and the est price is about 100$ which i think is alot, i might have to make the screen a bit worse.. also i couldnt find a symbol for the elecrow display, tried making my own, but failed miserably + wasted a shit ton of time on it. added the pi and button layout, need to wire and add other symbols too. but i need to study now.
+
+![screenshot-2025-10-04_13-27-33.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Mjk4LCJwdXIiOiJibG9iX2lkIn19--d05dda469b4367bb9c7de03d23e00b35dbacae3a/screenshot-2025-10-04_13-27-33.png)
   
 
